@@ -1,0 +1,7 @@
+Build and Deploy a MERN(MongoDB, Express JS, React, Node JS) Stack Admin Dashboard.
+
+For frontend, we will be using Material UI (for styling), Material UI Data Grid(for tables), Nivo Charts(for charts), Redux Toolkit(for state management) and Redux Toolkit Query(for making API calls).
+For backend, we will be using Node JS(as runtime), Express Js(as backend framework), Mongoose(for managing MongoDB), and MongoDB.
+
+Includes Data Model using Entity Relationship Diagrams as well as making aggregate calls in MongoDB.
+
