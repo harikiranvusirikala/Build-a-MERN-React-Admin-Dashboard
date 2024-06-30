@@ -5,3 +5,16 @@ For backend, we will be using Node JS(as runtime), Express Js(as backend framewo
 
 Includes Data Model using Entity Relationship Diagrams as well as making aggregate calls in MongoDB.
 
+$ mkdir server && cd server
+$ npm init -y
+
+$ npm i express body-parser cors dotenv helmet morgan mongoose nodemon
+
+express - framework for our APIs
+body-parser - for parsing our data coming in
+cors - for Cross Origin Resource Sharing
+dotenv - for environtment variables
+helmet - for protecting our APIs
+morgan - for logging our API calls
+mongoose - for handling MongoDB calls
+nodemon - for liveserver re-load
