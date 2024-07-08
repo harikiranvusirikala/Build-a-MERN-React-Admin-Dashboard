@@ -21,3 +21,7 @@ nodemon - for liveserver re-load
 
 MongoDB Atlas Setup:
 Create free Cluster at https://cloud.mongodb.com/
+
+Create frontend React app:
+$ npx create-react-app client
+
