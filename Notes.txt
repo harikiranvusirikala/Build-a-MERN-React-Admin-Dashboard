@@ -18,3 +18,6 @@ helmet - for protecting our APIs
 morgan - for logging our API calls
 mongoose - for handling MongoDB calls
 nodemon - for liveserver re-load
+
+MongoDB Atlas Setup:
+Create free Cluster at https://cloud.mongodb.com/
