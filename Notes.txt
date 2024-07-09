@@ -34,3 +34,5 @@ $ cd client
 $ npm i react-redux @reduxjs/toolkit react-datepicker react-router-dom@6 @mui/material @mui/icons-material @mui/x-data-grid @emotion/react @emotion/styled @nivo/core @nivo/bar @nivo/geo @nivo/pie
 
 $ npm i react-datepicker@4.8.0 (if issue with datepicker in newer version)
+
+Import specific font weights of Inter font from fonts.google.com
