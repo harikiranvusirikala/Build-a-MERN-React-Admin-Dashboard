@@ -36,3 +36,5 @@ $ npm i react-redux @reduxjs/toolkit react-datepicker react-router-dom@6 @mui/ma
 $ npm i react-datepicker@4.8.0 (if issue with datepicker in newer version)
 
 Import specific font weights of Inter font from fonts.google.com
+
+In backend comment the code to add data to MangoDB database as it's only one time.
