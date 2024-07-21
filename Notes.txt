@@ -41,3 +41,6 @@ In backend comment the code to add data to MangoDB database as it's only one tim
 
 Add REACT_APP_BASE_URL in client -> .env.local
 Need to update it with new value when deploying
+
+https://mui.com/material-ui/react-card/#system-BasicCard.tsx
+
