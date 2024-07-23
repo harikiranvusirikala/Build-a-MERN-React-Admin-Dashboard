@@ -47,3 +47,7 @@ https://mui.com/material-ui/react-card/#system-BasicCard.tsx
 https://mui.com/x/react-data-grid/
 
 Difference between Customers table transaction table is in transaction we do server side pagination(means only limit rows fetched everytime).
+
+https://mui.com/x/react-data-grid/pagination/#server-side-pagination
+
+https://mui.com/x/react-data-grid/components/#toolbar
