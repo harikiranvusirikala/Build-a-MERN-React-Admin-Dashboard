@@ -51,5 +51,8 @@ Difference between Customers table transaction table is in transaction we do ser
 https://mui.com/x/react-data-grid/pagination/#server-side-pagination
 
 https://mui.com/x/react-data-grid/components/#toolbar
+
+https://mongoosejs.com/docs/api/model.html#Model.find()
+
 https://nivo.rocks/choropleth/
 $ npm i country-iso-2-to-3 (to convert 2 char country code to 3 char as need in nivo charts)
