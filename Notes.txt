@@ -54,5 +54,5 @@ https://mui.com/x/react-data-grid/components/#toolbar
 
 https://mongoosejs.com/docs/api/model.html#Model.find()
 
-https://nivo.rocks/choropleth/
+https://nivo.rocks/choropleth/ -> here -> https://github.com/plouc/nivo/blob/master/website/src/data/components/geo/world_countries.json -> Raw -> copy to geoData.js
 $ npm i country-iso-2-to-3 (to convert 2 char country code to 3 char as need in nivo charts)
