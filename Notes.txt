@@ -66,3 +66,7 @@ https://nivo.rocks/line/
 Format the input data as per above
 Get the code from above to display in react
 
+In Daily page we are not using separate component, so we add Data Picker Code, update input data to format supported by chart, nivo chart code
+https://www.npmjs.com/package/react-datepicker -> https://github.com/Hacker0x01/react-datepicker -> https://github.com/Hacker0x01/react-datepicker?tab=readme-ov-file#installation
+https://reactdatepicker.com/#example-date-range
+
