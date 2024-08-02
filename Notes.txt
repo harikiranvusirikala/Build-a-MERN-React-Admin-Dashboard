@@ -70,3 +70,5 @@ In Daily page we are not using separate component, so we add Data Picker Code, u
 https://www.npmjs.com/package/react-datepicker -> https://github.com/Hacker0x01/react-datepicker -> https://github.com/Hacker0x01/react-datepicker?tab=readme-ov-file#installation
 https://reactdatepicker.com/#example-date-range
 
+Code from daily page is copied to monhtly we small modifications.
+
