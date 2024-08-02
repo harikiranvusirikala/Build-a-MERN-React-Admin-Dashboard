@@ -60,3 +60,5 @@ https://nivo.rocks/choropleth/ -> here -> https://github.com/plouc/nivo/blob/mas
 
 https://nivo.rocks/choropleth/ -> change the map style -> copy the code to use (remove defs, fills)
 
+$ npm i @nivo/line
+
