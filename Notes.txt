@@ -76,3 +76,6 @@ https://nivo.rocks/pie/
 
 Code from customers page is copied to admin page with small modifications.
 
+https://www.mongodb.com/docs/manual/reference/method/db.collection.aggregate/
+https://www.mongodb.com/docs/manual/aggregation/
+
