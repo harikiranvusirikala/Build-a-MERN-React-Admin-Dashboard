@@ -72,3 +72,5 @@ https://reactdatepicker.com/#example-date-range
 
 Code from daily page is copied to monhtly we small modifications.
 
+https://nivo.rocks/pie/
+
