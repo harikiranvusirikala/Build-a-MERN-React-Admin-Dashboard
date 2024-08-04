@@ -1,6 +1,6 @@
 # Build and Deploy a MERN(MongoDB, Express JS, React, Node JS) Stack Admin Dashboard
 
-Live at [https://harikiranvusirikala-admin-dashboard.onrender.com/](https://harikiranvusirikala.github.io/Kirby-Game/).
+Live at [https://harikiranvusirikala-admin-dashboard.onrender.com/](https://harikiranvusirikala-admin-dashboard.onrender.com/).
 
 
 - For frontend, I have used Material UI (for styling), Material UI Data Grid(for tables), Nivo Charts(for charts), Redux Toolkit(for state management) and Redux Toolkit Query(for making API calls).
