@@ -92,3 +92,10 @@ Code from admin page is copied to performance page with small modifications.
 Copy columns from transactions page to dashboard page.
 Copy Box style from transactions page to dashboard page transaction page Box with some modifications.
 
+Deployment
+https://dashboard.render.com/ -> Sign Up
+-> New -> Web Service (for backend) -> server, npm install, npm run start -> Add 3 IPs in Connect to Mongoose Atlas IP whitelisting
+Backend live at: https://harikiranvusirikala-admin-dashboard-u8s9.onrender.com/management/admins
+
+-> New -> Static Site (for frontend) -> client, npm run build, build, update env with above backend URL
+Frontend live at: https://harikiranvusirikala-admin-dashboard.onrender.com/
