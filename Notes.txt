@@ -19,6 +19,8 @@ morgan - for logging our API calls
 mongoose - for handling MongoDB calls
 nodemon - for liveserver re-load
 
+$ npm run dev
+
 MongoDB Atlas Setup:
 Create free Cluster at https://cloud.mongodb.com/
 
@@ -34,6 +36,9 @@ $ cd client
 $ npm i react-redux @reduxjs/toolkit react-datepicker react-router-dom@6 @mui/material @mui/icons-material @mui/x-data-grid @emotion/react @emotion/styled @nivo/core @nivo/bar @nivo/geo @nivo/pie
 
 $ npm i react-datepicker@4.8.0 (if issue with datepicker in newer version)
+$ npm install --save-dev ajv@8 ($ npm list ajv - to see the version)
+
+$ npm run start
 
 Import specific font weights of Inter font from fonts.google.com
 
@@ -75,6 +80,9 @@ Code from daily page is copied to monhtly page with small modifications.
 https://nivo.rocks/pie/
 
 Code from customers page is copied to admin page with small modifications.
+https://mui.com/x/migration/migration-data-grid-v5/#%E2%9C%85-column-menu
+GridFilterMenuItem	-> GridColumnMenuFilterItem
+HideGridColMenuItem	-> GridColumnMenuHideItem
 
 https://www.mongodb.com/docs/manual/reference/method/db.collection.aggregate/
 https://www.mongodb.com/docs/manual/aggregation/

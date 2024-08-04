@@ -5,6 +5,7 @@ import {
   Menu as MenuIcon,
   Search,
   SettingsOutlined,
+  ArrowDropDownOutlined,
 } from "@mui/icons-material";
 import FlexBetween from "components/FlexBetween";
 import { useDispatch } from "react-redux";
