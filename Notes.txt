@@ -81,3 +81,6 @@ https://www.mongodb.com/docs/manual/aggregation/
 
 Code from admin page is copied to performance page with small modifications.
 
+Copy columns from transactions page to dashboard page.
+Copy Box style from transactions page to dashboard page transaction page Box with some modifications.
+
